@@ -1,0 +1,15 @@
+#string => ข้อความ/ตัวอักษร '  ""  '''
+#number => integer(จำนวนเต็ม),float(ทศนิยม)
+#boolean => True,False
+print(-1)
+print(0)
+print(1)
+print(3.99)
+print(1+9)
+print("1" + "9")
+print(True)
+print(False)
+print("toppo \n")
+print("toppo \t")
+print("toppo \t" + "V123")
+print("toppo \n" + "V123")
