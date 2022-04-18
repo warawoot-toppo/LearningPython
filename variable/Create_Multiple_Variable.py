@@ -2,7 +2,7 @@ c = d = e = 5
 
 print('c =', c)
 print('d =', d)
-print('e =', e) + '\n'
+print('e =', e)
 
 f = 6; g = 7; h = 8;
 
