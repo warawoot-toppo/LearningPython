@@ -1,4 +1,4 @@
-file_read = open('22.1test.txt', 'w', encoding="UTF-8")
+file_read = open('we_test.txt', 'w', encoding="UTF-8")
 
 
 file_read.write('123\n')
