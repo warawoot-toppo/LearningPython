@@ -8,5 +8,5 @@ n = len(listx)
 for i in range(n):
     list4.insert(listx[i], '*')
 
-print(list4)        
+print(list4)          
     
