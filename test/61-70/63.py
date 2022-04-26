@@ -10,4 +10,4 @@ for i in tuple2:
         if i % j == 0:
             count = count + 1
     if count == 2: 
-        print(i)
+         print(i)
