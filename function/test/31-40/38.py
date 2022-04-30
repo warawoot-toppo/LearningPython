@@ -9,4 +9,4 @@ def isprime(num):
         return False
 
 
-print(isprime(5))
+print(isprime(4))
