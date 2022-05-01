@@ -13,7 +13,7 @@ class Tree:
         self.height += 10
         print('Height :', self.height, ',Generated Money :', self.generrated_money)
     def sell(self):
-        self.generrated_money  += (self.width * self.height) * 0.8
+        self.generrated_money  += self.width * self.height ** 0.8
         self.width = 0
         self.height = 0
         print('Generated Money :', self.generrated_money)
